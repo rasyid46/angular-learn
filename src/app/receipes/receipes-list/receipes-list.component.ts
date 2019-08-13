@@ -9,8 +9,8 @@ export class ReceipesListComponent implements OnInit {
   @Output() recipeWasSelected = new EventEmitter<Recipe>();
   recipes: Recipe[] = [
     new Recipe('A Test Recipe','This is simply a test','https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg'),
-    new Recipe('A Test Recipe','This is simply a test','https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg'),
-    new Recipe('A Test Recipe','This is simply a test','https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg'),
+    new Recipe('b Test Recipe','This is simply a test','https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg'),
+    new Recipe('c Test Recipe','This is simply a test','https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg'),
   ];
   constructor() { }
 

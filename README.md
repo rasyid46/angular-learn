@@ -29,3 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 88 12 Agustus 2018
 https://www.udemy.com/the-complete-guide-to-angular-2/learn/lecture/6656156#overview 
+
+89 13 Agustus 2018
+https://www.udemy.com/the-complete-guide-to-angular-2/learn/lecture/6656162#overview

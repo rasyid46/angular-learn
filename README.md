@@ -32,3 +32,6 @@ https://www.udemy.com/the-complete-guide-to-angular-2/learn/lecture/6656156#over
 
 89 13 Agustus 2018
 https://www.udemy.com/the-complete-guide-to-angular-2/learn/lecture/6656162#overview
+
+18 Agustus 2019
+https://www.udemy.com/the-complete-guide-to-angular-2/learn/lecture/6656244#overview
